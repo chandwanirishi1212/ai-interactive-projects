@@ -1,31 +1,47 @@
 # 🎮 AI Interactive Projects
 
-A collection of interactive Python projects combining AI, computer vision, and game development.
+A collection of interactive Python projects combining computer vision, AI, and game development.
 
 ---
 
 ## 🎨 3D Air Drawing App
-Draw in air using your camera with neon glow effects and layered 3D visualization.
+Draw in air using your webcam with neon glow effects and layered 3D visualization.
+
+### Features:
+- Camera-based drawing
+- Neon glow strokes
+- Layered 3D illusion
+- Fullscreen canvas
 
 ![Air Drawing](assets/air_drawing.png)
 
 ---
 
 ## 🎮 Word Scramble Game
-A UI-based word game with login system, multiple users, and high scores.
+A GUI-based word game with login system and score tracking.
+
+### Features:
+- Multiple users
+- Score saving system
+- UI-based gameplay
 
 ![Word Game](assets/word_game.png)
 
 ---
 
 ## 🤖 Jarvis AI Assistant
-A voice-controlled assistant capable of performing basic automation tasks.
+A simple voice assistant capable of performing automation tasks.
+
+### Features:
+- Voice command support
+- Task automation
+- Interactive responses
 
 ![Jarvis](assets/jarvis.png)
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies Used
 - Python
 - OpenCV
 - Pygame
@@ -33,5 +49,8 @@ A voice-controlled assistant capable of performing basic automation tasks.
 
 ---
 
-## 🚀 Author
-Rishi Chandwani
+## 🚀 How to Run
+
+Clone the repository:
+```bash
+git clone https://github.com/chandwanirishi1212/ai-interactive-projects.git
